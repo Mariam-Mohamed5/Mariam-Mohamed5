@@ -1,29 +1,39 @@
 <h1 align="center">Hi there, I'm Mariam Mohamed 👋</h1>
-<h3 align="center">Software Engineer & Aspiring Full Stack Developer 💻🚀</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Web+Developer;Building+Digital+Solutions+%26+Systems" alt="Typing SVG" />
+</p>
 
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,25,35,40&height=180&section=header&text=Software%20Engineer%20&%20Full%20Stack&fontSize=30&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,25,35,40&height=200&section=header&text=Engineering%20Code,%20Crafting%20Futures&fontSize=28&animation=fadeIn&fontColor=ffffff" width="100%"/>
 </p>
 
 ---
 
-### 🌟 About Me
+### 💫 About Me
 
-I am a Software Engineering and Aspiring Full Stack Developer with a strong passion for building robust digital solutions and continuous learning. I combine technical problem-solving with organizational and communication skills gained through active community leadership. 💡✨
+<p align="justify">
+I am a <b>Software Engineering</b> student and aspiring <b>Full-Stack Developer</b> driven by a profound passion for architecting robust digital solutions, solving intricate problems, and embracing continuous growth. I bridge the gap between rigorous technical problem-solving and effective leadership, fostering collaboration through active community involvement.
+</p>
 
-I specialize in Web Development, designing and developing functional applications from concept to deployment. In my projects and training, I rely on a robust tech stack, including PHP, Laravel, .NET, and MySQL for backend development, alongside HTML5, CSS3, JavaScript, and Bootstrap for frontend, using Git and GitHub for version control. 🛠️🌐
+<p align="justify">
+My core expertise lies in <b>Web Development</b>—transforming conceptual ideas into scalable, high-performance applications from scratch to deployment. My robust technical foundation spans powerful backend ecosystems like <b>PHP, Laravel, and .NET</b> backed by <b>MySQL</b>, alongside dynamic frontend essentials including <b>HTML5, CSS3, JavaScript, and Bootstrap</b>, all tightly integrated with <b>Git & GitHub</b> for seamless version control.
+</p>
 
-Throughout my journey, I have built a diverse portfolio of practical experience. I expanded my technical expertise through intensive hands-on training as a Full Stack PHP Trainee at the National Telecommunication Institute (NTI) and a Full Stack .NET Trainee in the Digital Egypt Pioneers Initiative (DEPI). Additionally, I gained real-world corporate and technical exposure as an IT/Technical Intern at The United Bank of Egypt, and I actively contributed to community growth, event management, and content creation as an HR and Content Team Member at GDG On Campus. 👩‍💻📈
+<p align="justify">
+Throughout my professional journey, I have relentlessly pursued hands-on excellence. I sharpened my technical prowess through intensive training programs, including <b>Full Stack PHP Training at the National Telecommunication Institute (NTI)</b> and <b>Full Stack .NET Training under the Digital Egypt Pioneers Initiative (DEPI)</b>. Furthermore, I gained invaluable enterprise exposure as an <b>IT/Technical Intern at The United Bank of Egypt</b>, while nurturing community ecosystems as an active <b>HR and Content Team Member at GDG On Campus</b>.
+</p>
 
-My ultimate goal is to secure a role or internship where I can apply my full-stack skills, solve complex challenges, grow within an innovative tech team, and build impactful software solutions that make a real difference. 🎯🚀
+<p align="justify">
+🎯 <b>Vision:</b> My ultimate objective is to integrate into a forward-thinking, high-impact engineering team where I can leverage my full-stack capabilities, conquer complex architectural challenges, and engineer software solutions that genuinely redefine user experiences.
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### ⚡ Technical Arsenal & Tech Stack
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
@@ -39,19 +49,32 @@ My ultimate goal is to secure a role or internship where I can apply my full-sta
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mariam-Mohamed5&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mariam-Mohamed5&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariam-Mohamed5&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariam-Mohamed5&layout=compact&theme=radical&hide_border=true" width="60%" />
 </p>
 
 ---
 
-### 🔗 Connect with Me
+### 🌐 Let's Connect & Collaborate
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,35,25,12,0&height=100&section=footer" width="100%"/>
 </p>
