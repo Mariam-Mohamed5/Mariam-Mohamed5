@@ -51,10 +51,12 @@ Throughout my journey, I have built a diverse portfolio of practical experience.
 
 ---
 
-### 🏆 GitHub Trophies
+### 🚀 Highlights & Focus
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mariam-Mohamed5&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" width="90%" />
+  <code><b>💡 Full-Stack Web Development</b></code>&nbsp;&nbsp;
+  <code><b>📱 Cross-Platform Mobile Apps</b></code>&nbsp;&nbsp;
+  <code><b>🌱 Continuous Learner & Community Active</b></code>
 </p>
 
 ---
