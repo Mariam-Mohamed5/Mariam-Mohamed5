@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Mariam Mohamed 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Web+Developer;Building+Digital+Solutions+%26+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Software+Engineer;Full-Stack+Developer+(PHP+%26+.NET);Flutter+Mobile+Developer" alt="Typing SVG" />
 </p>
 
 <br>
@@ -11,22 +11,22 @@
 
 ---
 
-### 💫 About Me
+### About Me
 
 <p align="justify">
-I am a <b>Software Engineering</b> student and aspiring <b>Full-Stack Developer</b> driven by a profound passion for architecting robust digital solutions, solving intricate problems, and embracing continuous growth. I bridge the gap between rigorous technical problem-solving and effective leadership, fostering collaboration through active community involvement.
+I am a <b>Software Engineer</b> and Full-Stack Developer with a strong passion for building robust digital solutions and continuous learning. I combine technical problem-solving with organizational and communication skills gained through active community leadership.
 </p>
 
 <p align="justify">
-My core expertise lies in <b>Web Development</b>—transforming conceptual ideas into scalable, high-performance applications from scratch to deployment. My robust technical foundation spans powerful backend ecosystems like <b>PHP, Laravel, and .NET</b> backed by <b>MySQL</b>, alongside dynamic frontend essentials including <b>HTML5, CSS3, JavaScript, and Bootstrap</b>, all tightly integrated with <b>Git & GitHub</b> for seamless version control.
+I specialize in Web and Mobile Development, designing and developing functional applications from concept to deployment. In my projects and training, I rely on a robust tech stack, including <b>PHP, Laravel, .NET, and MySQL</b> for backend development, alongside <b>Flutter</b> for cross-platform mobile apps, and <b>HTML5, CSS3, JavaScript, and Bootstrap</b> for frontend, using Git and GitHub for version control.
 </p>
 
 <p align="justify">
-Throughout my professional journey, I have relentlessly pursued hands-on excellence. I sharpened my technical prowess through intensive training programs, including <b>Full Stack PHP Training at the National Telecommunication Institute (NTI)</b> and <b>Full Stack .NET Training under the Digital Egypt Pioneers Initiative (DEPI)</b>. Furthermore, I gained invaluable enterprise exposure as an <b>IT/Technical Intern at The United Bank of Egypt</b>, while nurturing community ecosystems as an active <b>HR and Content Team Member at GDG On Campus</b>.
+Throughout my journey, I have built a diverse portfolio of practical experience. I expanded my technical expertise through intensive hands-on training as a Full Stack PHP Trainee at the National Telecommunication Institute (NTI) and a Full Stack .NET Trainee in the Digital Egypt Pioneers Initiative (DEPI). Additionally, I gained real-world corporate and technical exposure as an IT/Technical Intern at The United Bank of Egypt, and I actively contributed to community growth, event management, and content creation as an HR and Content Team Member at GDG On Campus.
 </p>
 
 <p align="justify">
-🎯 <b>Vision:</b> My ultimate objective is to integrate into a forward-thinking, high-impact engineering team where I can leverage my full-stack capabilities, conquer complex architectural challenges, and engineer software solutions that genuinely redefine user experiences.
+ <b>Vision:</b> My ultimate goal is to secure a role or internship where I can apply my full-stack and mobile skills, solve complex challenges, grow within an innovative tech team, and build impactful software solutions that make a real difference.
 </p>
 
 ---
@@ -34,6 +34,8 @@ Throughout my professional journey, I have relentlessly pursued hands-on excelle
 ### ⚡ Technical Arsenal & Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
