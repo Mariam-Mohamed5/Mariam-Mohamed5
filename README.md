@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Mariam Mohamed Abd El-Rahman 👋</h1>
 <p align="center">
-  <code><b>✨ Software Engineer &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; Flutter Developer ✨</b></code>
+  <span style="font-family: monospace; font-size: 16px; font-weight: bold; color: #38BDF8;">✨ Software Engineer &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; Flutter Developer ✨</span>
 </p>
 
 <br>
@@ -41,7 +41,7 @@ Throughout my journey, I have built a diverse portfolio of practical experience.
   <code><b>🔷 .NET</b></code>&nbsp;&nbsp;
   <code><b>🗄️ MySQL</b></code>&nbsp;&nbsp;
   <code><b>💛 JavaScript</b></code>&nbsp;&nbsp;
-  <code><b>🌐 HTML5</b>}</code>&nbsp;&nbsp;
+  <code><b>🌐 HTML5</b></code>&nbsp;&nbsp;
   <code><b>🎨 CSS3</b></code>&nbsp;&nbsp;
   <code><b>💜 Bootstrap</b></code>&nbsp;&nbsp;
   <code><b>🐙 Git</b></code>&nbsp;&nbsp;
