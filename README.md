@@ -33,7 +33,7 @@ Throughout my journey, I have built a diverse portfolio of practical experience.
 
 ### ⚡ Technical Arsenal & Tech Stack
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
@@ -47,7 +47,7 @@ Throughout my journey, I have built a diverse portfolio of practical experience.
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studiocode&logoColor=white" />
-</p>
+</div>
 
 ---
 
