@@ -51,10 +51,10 @@ Throughout my journey, I have built a diverse portfolio of practical experience.
 
 ---
 
-### 📊 GitHub Streak
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariam-Mohamed5&theme=radical&hide_border=true" width="70%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mariam-Mohamed5&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" width="90%" />
 </p>
 
 ---
