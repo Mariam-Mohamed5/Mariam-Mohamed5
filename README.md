@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mariam Mohamed 👋</h1>
+<h1 align="center">Hi there, I'm Mariam Mohamed Abd El-Rahman </h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=2000&color=F43F5E&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+Full-Stack+Developer+%7C+Flutter+Developer" alt="Typing SVG" />
 </p>
@@ -11,7 +11,7 @@
 
 ---
 
-### 💫 About Me
+### About Me
 
 <p align="justify">
 I am a <b>Software Engineer</b> and Full-Stack Developer with a strong passion for building robust digital solutions and continuous learning. I combine technical problem-solving with organizational and communication skills gained through active community leadership.
@@ -26,12 +26,12 @@ Throughout my journey, I have built a diverse portfolio of practical experience.
 </p>
 
 <p align="justify">
-🎯 <b>Vision:</b> My ultimate objective is to secure a role or internship where I can apply my full-stack and mobile skills, solve complex challenges, grow within an innovative tech team, and build impactful software solutions that make a real difference.
+ <b>Vision:</b> My ultimate objective is to secure a role or internship where I can apply my full-stack and mobile skills, solve complex challenges, grow within an innovative tech team, and build impactful software solutions that make a real difference.
 </p>
 
 ---
 
-### ⚡ Technical Arsenal & Tech Stack
+## Technical Arsenal & Tech Stack
 
 <p align="center">
   <code><b>📱 Flutter</b></code>&nbsp;&nbsp;
@@ -51,7 +51,7 @@ Throughout my journey, I have built a diverse portfolio of practical experience.
 
 ---
 
-### 🌐 Let's Connect & Collaborate
+### Let's Connect & Collaborate
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mariam-abdelrahman1" target="_blank">
