@@ -17,11 +17,11 @@
 ### About Me
 
 <p align="justify">
-I am a <b>Software Engineer</b> and Full-Stack Developer with a strong passion for building robust digital solutions and continuous learning. I combine technical problem-solving with organizational and communication skills gained through active community leadership.
+I am a <b>Software Engineer</b>, <b>Full-Stack Developer</b>, and <b>Flutter Developer</b> with a strong passion for building robust digital solutions and continuous learning. I combine technical problem-solving with organizational and communication skills gained through active community leadership.
 </p>
 
 <p align="justify">
-I specialize in Web and Mobile Development, designing and developing functional applications from concept to deployment. In my projects and training, I rely on a robust tech stack, including <b>PHP, Laravel, .NET, and MySQL</b> for backend development, alongside <b>Flutter</b> for cross-platform mobile apps, and <b>HTML5, CSS3, JavaScript, and Bootstrap</b> for frontend, using Git and GitHub for version control.
+I specialize in Web and Mobile Development, designing and developing functional applications from concept to deployment. In my projects and training, I work with a diverse tech stack, including <b>PHP, Laravel, .NET, and MySQL</b> for backend development, alongside <b>Flutter</b> for cross-platform mobile apps, and <b>HTML5, CSS3, JavaScript, and Bootstrap</b> for frontend development, using <b>Git and GitHub</b> for version control.
 </p>
 
 <p align="justify">
@@ -29,8 +29,9 @@ Throughout my journey, I have built a diverse portfolio of practical experience.
 </p>
 
 <p align="justify">
- <b>Vision:</b> My ultimate objective is to secure a role or internship where I can apply my full-stack and mobile skills, solve complex challenges, grow within an innovative tech team, and build impactful software solutions that make a real difference.
+<b>Vision:</b> My ultimate objective is to secure a role or internship where I can apply my skills as a <b>Software Engineer</b>, <b>Full-Stack Developer</b>, and <b>Flutter Developer</b>, solve complex challenges, grow within an innovative tech team, and build impactful software solutions that make a real difference.
 </p>
+
 
 ---
 
