@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Mariam Mohamed Abd El-Rahman 👋</h1>
 
 <div align="center">
-  <p><b>✨ Software Engineer ✨</b></p>
-  <p><b>💻 Full-Stack Developer 💻</b></p>
-  <p><b>📱 Flutter Developer 📱</b></p>
+  <p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=350&lines=Software+Engineer+%F0%9F%92%BB" alt="Typing SVG 1" /></p>
+  <p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=350&lines=Full-Stack+Developer+%F0%9F%8C%90" alt="Typing SVG 2" /></p>
+  <p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=350&lines=Flutter+Developer+%F0%9F%93%B1" alt="Typing SVG 3" /></p>
 </div>
 
 <br>
