@@ -51,16 +51,6 @@ Throughout my journey, I have built a diverse portfolio of practical experience.
 
 ---
 
-### 🚀 Highlights & Focus
-
-<p align="center">
-  <code><b>💡 Full-Stack Web Development</b></code>&nbsp;&nbsp;
-  <code><b>📱 Cross-Platform Mobile Apps</b></code>&nbsp;&nbsp;
-  <code><b>🌱 Continuous Learner & Community Active</b></code>
-</p>
-
----
-
 ### 🌐 Let's Connect & Collaborate
 
 <p align="center">
