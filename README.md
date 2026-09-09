@@ -1,8 +1,10 @@
 <h1 align="center">Hi there, I'm Mariam Mohamed Abd El-Rahman 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1500&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%8C%90;Flutter+Developer+%F0%9F%93%B1;Crafting+Digital+Solutions+%E2%9C%A8" alt="Typing SVG" />
-</p>
+<div align="center">
+  <p><b>✨ Software Engineer ✨</b></p>
+  <p><b>💻 Full-Stack Developer 💻</b></p>
+  <p><b>📱 Flutter Developer 📱</b></p>
+</div>
 
 <br>
 
