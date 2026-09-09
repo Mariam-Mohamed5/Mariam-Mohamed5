@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Mariam Mohamed 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=5000&pause=5000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Full-Stack+Developer+%7C+Flutter+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=2000&color=F43F5E&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+Full-Stack+Developer+%7C+Flutter+Developer" alt="Typing SVG" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,25,35,40&height=180&section=header&text=Building%20The%20Future%20With%20Code&fontSize=26&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,24,33,45,60&height=180&section=header&text=Turning%20Ideas%20Into%20Reality&fontSize=26&animation=fadeIn&fontColor=ffffff" width="100%"/>
 </p>
 
 ---
@@ -78,5 +78,5 @@ Throughout my journey, I have built a diverse portfolio of practical experience.
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,35,25,12,0&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,24,33,45,60&height=100&section=footer" width="100%"/>
 </p>
