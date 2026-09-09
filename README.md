@@ -34,19 +34,19 @@ Throughout my journey, I have built a diverse portfolio of practical experience.
 ### ⚡ Technical Arsenal & Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" style="pointer-events: none;" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" style="pointer-events: none;" />
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" style="pointer-events: none;" />
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" style="pointer-events: none;" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" style="pointer-events: none;" />
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" style="pointer-events: none;" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" style="pointer-events: none;" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="pointer-events: none;" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="pointer-events: none;" />
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="pointer-events: none;" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" style="pointer-events: none;" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" style="pointer-events: none;" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studiocode&logoColor=white" style="pointer-events: none;" />
+  <code><b>📱 Flutter</b></code>&nbsp;&nbsp;
+  <code><b>🎯 Dart</b></code>&nbsp;&nbsp;
+  <code><b>🐘 PHP</b></code>&nbsp;&nbsp;
+  <code><b>⚡ Laravel</b></code>&nbsp;&nbsp;
+  <code><b>🔷 .NET</b></code>&nbsp;&nbsp;
+  <code><b>🗄️ MySQL</b></code>&nbsp;&nbsp;
+  <code><b>💛 JavaScript</b></code>&nbsp;&nbsp;
+  <code><b>🌐 HTML5</b></code>&nbsp;&nbsp;
+  <code><b>🎨 CSS3</b></code>&nbsp;&nbsp;
+  <code><b>💜 Bootstrap</b></code>&nbsp;&nbsp;
+  <code><b>🐙 Git</b></code>&nbsp;&nbsp;
+  <code><b>🐈 GitHub</b></code>&nbsp;&nbsp;
+  <code><b>💻 VS Code</b></code>
 </p>
 
 ---
@@ -54,7 +54,7 @@ Throughout my journey, I have built a diverse portfolio of practical experience.
 ### 📊 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariam-Mohamed5&theme=radical&hide_border=true" width="70%" style="pointer-events: none;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariam-Mohamed5&theme=radical&hide_border=true" width="70%" />
 </p>
 
 ---
