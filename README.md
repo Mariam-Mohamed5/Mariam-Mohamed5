@@ -54,12 +54,12 @@ Throughout my journey, I have built a diverse portfolio of practical experience.
 ### 📊 GitHub Analytics & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mariam-Mohamed5&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariam-Mohamed5&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mariam-Mohamed5&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariam-Mohamed5&theme=vision-friendly-dark&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariam-Mohamed5&layout=compact&theme=radical&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariam-Mohamed5&layout=compact&theme=vision-friendly-dark&hide_border=true" width="60%" />
 </p>
 
 ---
