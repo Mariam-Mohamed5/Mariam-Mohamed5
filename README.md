@@ -1,12 +1,26 @@
 <h1 align="center">Hi there, I'm Mariam Mohamed Abd El-Rahman 👋</h1>
-<p align="center">
-  <span style="font-family: monospace; font-size: 16px; font-weight: bold; color: #38BDF8;">✨ Software Engineer &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; Flutter Developer ✨</span>
-</p>
+
+<br>
+
+<!-- قسم عرض الصورة المتحركة للبرمجة بجانب النص المتحرك الشيك -->
+<table align="center" border="0" width="100%">
+  <tr>
+    <td align="center" width="45%">
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/gitspace.gif" width="100%" alt="Coding Animation" style="border-radius: 12px;" />
+    </td>
+    <td align="center" width="55%">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=2000&color=38BDF8&center=true&vCenter=true&width=450&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%8C%90;Flutter+Developer+%F0%9F%93%B1" alt="Typing SVG" />
+      <p align="center" style="color: #94A3B8; font-size: 14px; margin-top: 15px;">
+        <i>🚀 Turning complex problems into clean, scalable, and impactful digital solutions.</i>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,24,33,45,60&height=180&section=header&text=Turning%20Ideas%20Into%20Reality&fontSize=26&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,24,33,45,60&height=160&section=header&text=Building%20The%20Future%20With%20Code&fontSize=24&animation=fadeIn&fontColor=ffffff" width="100%"/>
 </p>
 
 ---
