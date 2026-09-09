@@ -1,17 +1,17 @@
 <h1 align="center">Hi there, I'm Mariam Mohamed 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Software+Engineer;Full-Stack+Developer+(PHP+%26+.NET);Flutter+Mobile+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=5000&pause=5000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Full-Stack+Developer+%7C+Flutter+Developer" alt="Typing SVG" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,25,35,40&height=200&section=header&text=Engineering%20Code,%20Crafting%20Futures&fontSize=28&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,25,35,40&height=180&section=header&text=Building%20The%20Future%20With%20Code&fontSize=26&animation=fadeIn&fontColor=ffffff" width="100%"/>
 </p>
 
 ---
 
-### About Me
+### 💫 About Me
 
 <p align="justify">
 I am a <b>Software Engineer</b> and Full-Stack Developer with a strong passion for building robust digital solutions and continuous learning. I combine technical problem-solving with organizational and communication skills gained through active community leadership.
@@ -26,7 +26,7 @@ Throughout my journey, I have built a diverse portfolio of practical experience.
 </p>
 
 <p align="justify">
- <b>Vision:</b> My ultimate objective is to secure a role or internship where I can apply my full-stack and mobile skills, solve complex challenges, grow within an innovative tech team, and build impactful software solutions that make a real difference.
+🎯 <b>Vision:</b> My ultimate objective is to secure a role or internship where I can apply my full-stack and mobile skills, solve complex challenges, grow within an innovative tech team, and build impactful software solutions that make a real difference.
 </p>
 
 ---
