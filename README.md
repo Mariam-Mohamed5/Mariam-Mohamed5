@@ -5,12 +5,9 @@
 
 <br>
 
-<!-- قسم عرض التيرمينال المتحرك للكود بجانب نبذة أو لوحده في المنتصف -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/github%20readme%20stats/code.gif" alt="Coding Animation" width="350" style="border-radius: 10px;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,24,33,45,60&height=180&section=header&text=Turning%20Ideas%20Into%20Reality&fontSize=26&animation=fadeIn&fontColor=ffffff" width="100%"/>
 </p>
-
-<br>
 
 ---
 
