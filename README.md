@@ -11,7 +11,7 @@
 
 ---
 
-### About Me
+###  About Me
 
 <p align="justify">
 I am a <b>Software Engineer</b> and Full-Stack Developer with a strong passion for building robust digital solutions and continuous learning. I combine technical problem-solving with organizational and communication skills gained through active community leadership.
@@ -26,7 +26,7 @@ Throughout my journey, I have built a diverse portfolio of practical experience.
 </p>
 
 <p align="justify">
- <b>Vision:</b> My ultimate goal is to secure a role or internship where I can apply my full-stack and mobile skills, solve complex challenges, grow within an innovative tech team, and build impactful software solutions that make a real difference.
+ <b>Vision:</b> My ultimate objective is to secure a role or internship where I can apply my full-stack and mobile skills, solve complex challenges, grow within an innovative tech team, and build impactful software solutions that make a real difference.
 </p>
 
 ---
@@ -54,7 +54,7 @@ Throughout my journey, I have built a diverse portfolio of practical experience.
 ### 📊 GitHub Analytics & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mariam-Mohamed5&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mariam-Mohamed5&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariam-Mohamed5&theme=radical&hide_border=true" width="48%" />
 </p>
 
@@ -67,10 +67,10 @@ Throughout my journey, I have built a diverse portfolio of practical experience.
 ### 🌐 Let's Connect & Collaborate
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/mariam-abdelrahman1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+  <a href="mickeyabdo222@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
