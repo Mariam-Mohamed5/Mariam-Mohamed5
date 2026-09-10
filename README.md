@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Mariam Mohamed Abd El-Rahman </h1>
 
 <div align="center">
-  <p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=350&lines=Software+Engineer+%F0%9F%92%BB" alt="Typing SVG 1" /></p>
-  <p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=350&lines=Full-Stack+Developer+%F0%9F%8C%90" alt="Typing SVG 2" /></p>
-  <p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=350&lines=Flutter+Developer+%F0%9F%93%B1" alt="Typing SVG 3" /></p>
+  <p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=99999&color=38BDF8&center=true&vCenter=true&width=350&lines=Software+Engineer+%F0%9F%92%BB" alt="Typing SVG 1" /></p>
+  <p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&delay=3000&pause=99999&color=38BDF8&center=true&vCenter=true&width=350&lines=Full-Stack+Developer+%F0%9F%8C%90" alt="Typing SVG 2" /></p>
+  <p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&delay=6000&pause=99999&color=38BDF8&center=true&vCenter=true&width=350&lines=Flutter+Developer+%F0%9F%93%B1" alt="Typing SVG 3" /></p>
 </div>
 
 <br>
@@ -32,10 +32,9 @@ Throughout my journey, I have built a diverse portfolio of practical experience.
 <b>Vision:</b> My ultimate objective is to secure a role or internship where I can apply my skills as a <b>Software Engineer</b>, <b>Full-Stack Developer</b>, and <b>Flutter Developer</b>, solve complex challenges, grow within an innovative tech team, and build impactful software solutions that make a real difference.
 </p>
 
-
 ---
 
-###  Technical Arsenal & Tech Stack
+### Technical Arsenal & Tech Stack
 
 <p align="center">
   <code><b>📱 Flutter</b></code>&nbsp;&nbsp;
@@ -55,7 +54,7 @@ Throughout my journey, I have built a diverse portfolio of practical experience.
 
 ---
 
-###  Let's Connect & Collaborate
+### Let's Connect & Collaborate
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mariam-abdelrahman1" target="_blank">
